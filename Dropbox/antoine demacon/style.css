@@ -1,0 +1,18 @@
+    
+html {
+    height:100%;   
+}
+
+body {
+    height: 95%;  
+    list-style: none;
+    color: black;
+    font-family: sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+img {
+    width: 100%;
+}
+        

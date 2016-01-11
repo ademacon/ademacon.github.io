@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+}
+
+body {
+    min-height: 98%;
+}
+
+.modif {
+    background: rgba(0, 0, 0, 0.3) none repeat scroll 0 0;
+    display: inline-block;
+    height: 100%;
+    left: 0;
+    padding: 10px;
+    position: fixed;
+    top: 0;
+    width: 200px;
+}
+
+.site {
+    height: 100%;
+    left: 220px;
+    position: absolute;
+    width: calc(100% - 220px);
+}
+
+object {
+    height: 100%;
+    width: 100%;
+}
+
+h3 {
+    margin: 0;
+}
